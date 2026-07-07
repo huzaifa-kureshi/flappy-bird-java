@@ -19,8 +19,6 @@ A classic **Flappy Bird** clone built from scratch in **Java** using **Swing** f
   - [Installation & Running](#installation--running)
 - [Controls](#-controls)
 - [How It Works](#-how-it-works)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
